@@ -1,4 +1,3 @@
-
 ### Olá eu sou Domicio José ✍️
 
 [![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
@@ -25,3 +24,4 @@ Estudando tecnologia, buscando conhecimento na Programação Atual.
 - [Assistindo videos no youtube](https://www.youtube.com/watch?v=cRoBt6AZgjc)<br/>
 - [Assistindo videos no youtube](https://dev.to/envoy_/150-badges-for-github-pnk)<br/>
 - [Assistindo videos no youtube](https://emojipedia.org/search?q=hand)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domicphp008&layout=donut)](https://github.com/domicphp008/github-readme-stats)
